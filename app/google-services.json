@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636791012612",
+    "firebase_url": "https://storyteller-462aa.firebaseio.com",
+    "project_id": "storyteller-462aa",
+    "storage_bucket": "storyteller-462aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636791012612:android:3fa01b08149f6c11",
+        "android_client_info": {
+          "package_name": "udacity.storyteller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636791012612-l6jg0fu8vncu33rsmdrj5hjlrqne9oq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi4dVDGjJ9kxLdWjvLI2-Pgf0Qbq-YDbk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Storyteller</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_storyboard">Storyboard</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="data_not_available">Data not available</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="sign_out">Sign out</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="story_title">Story title</string>
+    <string name="author_jim">Author: Jim</string>
+    <string name="category_fantasy">Category: Fantasy</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book_it_has_survived_not_only_five_centuries_but_also_the_leap_into_electronic_typesetting_remaining_essentially_unchanged_it_was_popularised_in_the_1960s_with_the_release_of_letraset_sheets_containing_lorem_ipsum_passages_and_more_recently_with_desktop_publishing_software_like_aldus_pagemaker_including_versions_of_lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="story_title_writing">Story title:</string>
+    <string name="enter_story_title">Enter story title</string>
+    <string name="author_name">Author name:</string>
+    <string name="enter_author_name">Enter author name</string>
+    <string name="write_your_story_here">Write your story here</string>
+    <string name="save_draft">Save draft</string>
+    <string name="submit">Submit</string>
+    <string name="line_1">Line 1</string>
+    <string name="category">Category</string>
+    <string name="launcher_icon">launcher icon on a splash screen</string>
+    <string name="signup_activity_launcher_icon">signup activity launcher icon</string>
+    <string name="story_category_image">story category image</string>
+    <string name="login_screen_launcher_icon">login screen launcher icon</string>
+    <string name="author_read_story">Author:</string>
+    <string name="category_read_story">Category:</string>
+    <string name="registration_succes">User Registered Successfully!</string>
+    <string name="email_exists">Email already registered</string>
+    <string name="signing_out">Signing out</string>
+    <string name="add_title">You have to add a title!</string>
+    <string name="add_author_name">You have to add author name!</string>
+    <string name="draft_saved">Draft saved!</string>
+    <string name="story_saved">Story saved!</string>
+</resources>
